@@ -1,0 +1,29 @@
+{
+  "name": "@mrijoo/terminal",
+  "version": "1.0.0",
+  "description": "Terminal Styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrijoo/terminal.git"
+  },
+  "keywords": [
+    "cli",
+    "shell",
+    "terminal",
+    "xterm",
+    "styling",
+    "colors",
+    "select",
+    "spinner"
+  ],
+  "author": "mrijoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrijoo/terminal/issues"
+  },
+  "homepage": "https://github.com/mrijoo/terminal"
+}
